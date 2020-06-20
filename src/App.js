@@ -1,4 +1,5 @@
-import React from "react";
+import React from 'react';
+
 
 function App() {
   return <h1>Config Inicial</h1>;
